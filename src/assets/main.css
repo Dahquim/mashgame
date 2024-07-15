@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.strike {
+    background-color: #9a0606;
+    color: #FFF;
+    text-decoration: line-through;
+}
